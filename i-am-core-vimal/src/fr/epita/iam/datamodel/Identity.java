@@ -45,7 +45,7 @@ public class Identity {
 	}
     /**
      * 
-     * @param 
+     * @param setting uid
      */
 
 	public void setUid(String uid) {
